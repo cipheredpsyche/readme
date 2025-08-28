@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C85A87&height=180&section=header&text=Hi,%20I'm%20Aki!%20^_^&fontSize=40&fontColor=ffffff" />
 </p> 
 
-*Hey there! Welcome to my little corner* 🦢
+*Welcome to my little corner* 🦢
 
 <p align="left">
   <img src="https://img.shields.io/badge/ I am an-/C85A87?style=for-the-badge&labelColor=FDECF2&color=C85A87&logoColor=white" />
