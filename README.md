@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C85A87&height=180&section=header&text=Hi,%20I'm%20Aki!%20^_^&fontSize=40&fontColor=ffffff" />
 </p> 
@@ -17,8 +16,10 @@
 </p>
 
 - Writing **(Medium)**
-- Web Design & Development **(HTML, C#)**  
+- Web Design & Development **(HTML, C#)** 
+ 
 ---
+
 <p align="left">
   <img src="https://img.shields.io/badge/ Socials-/C85A87?style=for-the-badge&labelColor=FDECF2&color=C85A87&logoColor=white" />
 </p>
@@ -45,7 +46,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kitkat011&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=kitkat011&icon=6&color=4)](https://visitcount.itsvg.in)
-<!-- Footer Banner -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C85A87&height=100&section=footer"/>
 </p>
