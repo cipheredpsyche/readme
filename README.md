@@ -9,7 +9,7 @@
 </p>
 
 -  Author
--  Web Enthusiast
+-  Storyteller
 
 <p align="left">
   <img src="https://img.shields.io/badge/ My go to tools & passion-C85A87?style=for-the-badge&labelColor=FDECF2&color=C85A87&logoColor=white"/>
